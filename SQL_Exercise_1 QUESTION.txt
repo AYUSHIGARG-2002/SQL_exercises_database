@@ -1,0 +1,27 @@
+Simple Queries
+1.0 Display count of rows in bookings, members and facilities
+2.0 Display bookings in descending sorted order of data
+3.0 Display distinct facilities
+4.0 Get top 3 facilities with highest member cost
+5.0 Get top 1 facilities with least montly maintenance
+6.0 Get members who share same surname.
+7.0 Get members who stay in same City. If they have Boston in Address then they are in same city.
+8.0 Get members whos surname starts with 'Sm' or 'Tr' or ends with "ll" or "ew"
+
+Join Queries
+1.0 Display members who have booked facilities
+2.0 Display facilities that have been booked.
+3.0 Display members who have not booked facilities.
+4.0 Display facilities that have not been booked by members.
+5.0 Display bookings with no facilities and members.
+
+
+Aggregate Queies
+1.0 Display Total facilities by type
+2.0 Display members with total slots booked for each facility type.
+3.0 Display top 3 members with maximum faciliy usage (in terms of slots)
+4.0 Display facilities booked sorted by slots descending
+5.0 Display top 3 booked facilities with maximum earnings.
+6.0 Display top 3 referred members based on booking total slots.
+7.0 Display members based on count of usage ot Tennis (could be tennis or table tennis).
+
